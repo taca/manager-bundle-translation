@@ -10,3 +10,8 @@ type = XLIFF
 file_filter = translations/manager-bundle.v4_13-ContaoManagerBundle/<lang>.xlf
 source_lang = en
 type = XLIFF
+
+[manager-bundle.v5_0-ContaoManagerBundle]
+file_filter = translations/manager-bundle.v5_0-ContaoManagerBundle/<lang>.xlf
+source_lang = en
+type = XLIFF
